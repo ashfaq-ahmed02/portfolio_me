@@ -1,116 +1,189 @@
-# portfolio_me
+<div align="center">
 
-# 🌐 Portfolio_Me
+# 👋 Hi, I'm Ashfaq Ahmed M
 
-Welcome to my personal portfolio repository! This project showcases my skills, projects, achievements, and journey as a Computer Science Engineering student passionate about software development, networking, cybersecurity, and UI/UX design.
+### 💻 Computer Science Engineering Student | 🌐 Network Security Enthusiast | 🎨 Creative Designer
 
-## 🚀 Live Demo
+<p align="center">
+  <a href="https://aabidportfolio4.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-Visit-0A66C2?style=for-the-badge">
+  </a>
+  <a href="https://github.com/ashfaq-ahmed02">
+    <img src="https://img.shields.io/github/followers/ashfaq-ahmed02?style=for-the-badge">
+  </a>
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge">
+</p>
 
-🔗 https://aabidportfolio4.vercel.app/
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=Welcome%20To%20My%20Portfolio&fontColor=ffffff&fontSize=40"/>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 🌐 Portfolio
 
-Hi, I'm **Ashfaq Ahmed M**, a Computer Science Engineering student and creative developer from India.
+This repository contains the source code for my personal portfolio website, where I showcase my projects, technical skills, achievements, and learning journey.
 
-I'm passionate about:
-- 💻 Full Stack Web Development
-- 🌐 Networking & Cybersecurity
-- 🎨 UI/UX Design
+## 🔗 Live Website
+
+### 👉 https://aabidportfolio4.vercel.app/
+
+---
+
+# ✨ About Me
+
+I'm **Ashfaq Ahmed M**, a Computer Science Engineering student passionate about creating impactful digital experiences.
+
+I enjoy working on
+
+- 🌐 Web Development
+- 🔐 Network Security
 - 🤖 AI & Automation
-- 📱 Responsive Web Design
+- 🎨 UI/UX Design
+- 📱 Responsive Websites
+- 🚀 Open Source Projects
 
-I enjoy building modern, fast, and user-friendly websites while continuously learning new technologies.
-
----
-
-## ✨ Features
-
-- Modern and responsive design
-- Smooth scrolling animations
-- Interactive UI
-- Mobile-friendly layout
-- Project showcase
-- Skills section
-- Contact section
-- Social media integration
+My goal is to build innovative software solutions while continuously improving my technical and leadership skills.
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Features
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
+✅ Fully Responsive Design
 
-### Tools
-- VS Code
-- Git
-- GitHub
-- Figma
-- Canva
+✅ Modern UI/UX
 
-### Deployment
-- Vercel
+✅ Smooth Animations
+
+✅ Interactive Components
+
+✅ Mobile Friendly
+
+✅ Projects Showcase
+
+✅ Skills Section
+
+✅ Contact Form
+
+✅ Fast Loading
 
 ---
 
-## 📂 Project Structure
+# 🛠 Tech Stack
 
-```
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
+
+## Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+</p>
+
+## Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</p>
+
+---
+
+# 📂 Project Structure
+
+```text
 portfolio_me/
 │
-├── index.html
-├── style.css
-├── script.js
 ├── assets/
 │   ├── images/
 │   ├── videos/
 │   └── icons/
+│
+├── index.html
+├── style.css
+├── script.js
 └── README.md
 ```
 
 ---
 
-## 📸 Preview
+# 📸 Website Preview
 
-<img width="100%" alt="Portfolio Preview" src="assets/images/preview.png">
+> Replace this image with a screenshot of your portfolio.
 
-> Replace the image above with your portfolio screenshot.
-
----
-
-## 🎯 Future Improvements
-
-- Dark/Light mode
-- Blog section
-- Download Resume feature
-- More project case studies
-- Performance optimization
-- Accessibility improvements
+<p align="center">
+<img width="100%" src="assets/images/preview.png">
+</p>
 
 ---
 
-## 🤝 Connect With Me
+# 📊 GitHub Stats
 
-- GitHub: https://github.com/ashfaq-ahmed02
-- LinkedIn: https://linkedin.com/in/ashfaq-ahmed-m
-- Portfolio: https://aabidportfolio4.vercel.app/
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashfaq-ahmed02&show_icons=true&theme=tokyonight"/>
 
-## ⭐ Support
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaq-ahmed02&theme=tokyonight"/>
 
-If you like this project, consider giving it a ⭐ on GitHub!
+</p>
 
 ---
 
-## 📄 License
+# 💡 Currently Learning
 
-This project is open source and available under the MIT License.
+- ☁ Cloud Computing
+- 🔐 Cyber Security
+- 🌐 Networking
+- 🐳 Docker
+- ⚡ DevOps
+- 🤖 AI Agents
+- 📡 Ethical Hacking
 
 ---
 
-Made with ❤️ by **Ashfaq Ahmed M**
+# 🎯 Future Updates
+
+- 🌙 Dark Mode
+- 🌍 Multi-language Support
+- 📝 Blog Section
+- 📥 Resume Download
+- ⚡ Performance Improvements
+- ♿ Accessibility Enhancements
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ashfaq-ahmed-m">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/ashfaq-ahmed02">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://aabidportfolio4.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ If you like this project, don't forget to star the repository!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
+
+</div>
