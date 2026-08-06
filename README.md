@@ -117,7 +117,9 @@ portfolio_me/
 
 # 📸 Website Preview
 
-> Replace this image with a screenshot of your portfolio.
+![](https://komarev.com/ghpvc/?username=ashfaq-ahmed02&style=for-the-badge)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+Portfolio;Computer+Science+Engineer;Network+Security+Enthusiast;Creative+Developer)](https://git.io/typing-svg)
 
 <p align="center">
 <img width="100%" src="assets/images/preview.png">
