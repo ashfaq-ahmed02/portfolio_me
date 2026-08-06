@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Projects — Ashfaq Ahmed M</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800&family=Caveat:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="noise"></div>
+
+<header>
+  <a class="logo" href="index.html"><span class="dot"></span> AAM</a>
+  <button class="nav-toggle" id="navToggle" aria-label="Toggle menu" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+  <nav id="siteNav">
+    <ul>
+      <li><a href="index.html">home</a></li>
+      <li><a href="index.html#about">about</a></li>
+      <li><a href="index.html#skills">skills</a></li>
+      <li><a href="projects.html" class="active">projects</a></li>
+      <li><a href="gallery.html">gallery</a></li>
+      <li><a href="index.html#contact" class="nav-cta">contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<div class="page-hero">
+  <div class="eyebrow">$ ls ~/projects</div>
+  <h1>Things I've built (and one still compiling)</h1>
+  <p>A mix of live client work, an in-progress security build, and UI/UX design — three different disciplines, same attention to detail.</p>
+</div>
+
+<section style="padding-top:20px;">
+  <div class="repo-grid">
+
+    <!-- Project 1: Upcoming Firewall -->
+    <div class="repo-card">
+      <span class="mark">psst — early days</span>
+      <div class="repo-top">
+        <span class="repo-icon">🛡️</span>
+        <span class="pill upcoming">🚧 Building</span>
+      </div>
+      <h3>Firewall</h3>
+      <p class="desc">A network security project currently in active development — designing and implementing firewall rules and traffic-filtering logic from the ground up.</p>
+      <div class="progress-wrap">
+        <div class="progress-label"><span>Progress</span><b>65%</b></div>
+        <div class="progress-track"><div class="progress-fill"></div></div>
+      </div>
+      <div class="tech-tags"><span>Networking</span><span>Security</span><span>In Progress</span></div>
+      <span class="repo-link disabled">Not live yet <span class="arrow">↗</span></span>
+    </div>
+
+    <!-- Project 2: Client Portfolio -->
+    <div class="repo-card">
+      <span class="mark">shipped ✎</span>
+      <div class="repo-top">
+        <span class="repo-icon">🌐</span>
+        <span class="pill live">Live</span>
+      </div>
+      <h3>Client Portfolio</h3>
+      <p class="desc">A custom portfolio website built for a client from scratch — clean layout, responsive design, and smooth interactions with no framework overhead.</p>
+      <div class="tech-tags"><span>HTML</span><span>CSS</span><span>JavaScript</span></div>
+      <a class="repo-link" href="https://portfolio-7aab1.web.app/#" target="_blank" rel="noopener">View live site <span class="arrow">↗</span></a>
+    </div>
+
+    <!-- Project 3: Hospital Management SaaS UI/UX -->
+    <div class="repo-card">
+      <span class="mark">✎ sketch</span>
+      <div class="repo-top">
+        <span class="repo-icon">🏥</span>
+        <span class="pill design">Design</span>
+      </div>
+      <h3>Hospital Management — SaaS</h3>
+      <p class="desc">UI/UX design for a hospital management SaaS platform — mapping user flows for staff and admins, then designing clean, usable screens around them.</p>
+      <div class="tech-tags"><span>Figma</span><span>UI/UX</span><span>SaaS</span></div>
+      <a class="repo-link" href="https://www.figma.com/design/4w6Bjx4Val57BuJFwtFVx9/Untitled?node-id=0-1&t=I0XZUSTQqdsvr99o-1" target="_blank" rel="noopener">Open in Figma <span class="arrow">↗</span></a>
+    </div>
+
+  </div>
+</section>
+
+<section class="contact" style="padding-top:20px;">
+  <div class="eyebrow" style="justify-content:center;">next</div>
+  <h2>Got a project in mind?</h2>
+  <div class="contact-links">
+    <a href="mailto:ashfaqashu689@gmail.com">✉ Email</a>
+    <a href="https://github.com/ashfaq-ahmed02" target="_blank" rel="noopener">⌥ GitHub</a>
+    <a href="https://www.linkedin.com/in/ashfaq-ahmed-m-b3a49a2a5/" target="_blank" rel="noopener">in LinkedIn</a>
+  </div>
+</section>
+
+<footer>
+  built from scratch — no template, just terminal and ink.
+</footer>
+
+<script src="nav.js"></script>
+</body>
+</html>
