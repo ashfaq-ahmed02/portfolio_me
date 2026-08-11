@@ -1,191 +1,70 @@
-<div align="center">
-
 # 👋 Hi, I'm Ashfaq Ahmed M
 
-### 💻 Computer Science Engineering Student | 🌐 Network Security Enthusiast | 🎨 Creative Designer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Network+Security+Enthusiast;Creative+Designer;Web+Developer;AI+%26+Automation+Explorer" />
+</p>
 
 <p align="center">
-  <a href="https://aabidportfolio4.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-Visit-0A66C2?style=for-the-badge">
+  <a href="https://aabidportfolio4.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-36BCF7?style=for-the-badge" />
   </a>
-  <a href="https://github.com/ashfaq-ahmed02">
-    <img src="https://img.shields.io/github/followers/ashfaq-ahmed02?style=for-the-badge">
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=Welcome%20To%20My%20Portfolio&fontColor=ffffff&fontSize=40"/>
-
-</div>
-
----
-
-# 🌐 Portfolio
-
-This repository contains the source code for my personal portfolio website, where I showcase my projects, technical skills, achievements, and learning journey.
-
-## 🔗 Live Website
-
-### 👉 https://aabidportfolio4.vercel.app/
-
----
-
-# ✨ About Me
-
-I'm **Ashfaq Ahmed M**, a Computer Science Engineering student passionate about creating impactful digital experiences.
-
-I enjoy working on
-
-- 🌐 Web Development
-- 🔐 Network Security
-- 🤖 AI & Automation
-- 🎨 UI/UX Design
-- 📱 Responsive Websites
-- 🚀 Open Source Projects
-
-My goal is to build innovative software solutions while continuously improving my technical and leadership skills.
-
----
-
-# 🚀 Features
-
-✅ Fully Responsive Design
-
-✅ Modern UI/UX
-
-✅ Smooth Animations
-
-✅ Interactive Components
-
-✅ Mobile Friendly
-
-✅ Projects Showcase
-
-✅ Skills Section
-
-✅ Contact Form
-
-✅ Fast Loading
-
----
-
-# 🛠 Tech Stack
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>
-
-## Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-</p>
-
-## Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=vercel"/>
+<p align="center">
+  💻 Computer Science Engineering Student &nbsp; • &nbsp;
+  🌐 Network Security Enthusiast &nbsp; • &nbsp;
+  🎨 Creative Designer
 </p>
 
 ---
 
-# 📂 Project Structure
+## 🌐 My Portfolio
+
+This repository contains the source code for my personal portfolio website.
+
+The portfolio represents my journey as a **Computer Science Engineering student**, developer, security enthusiast, and creative designer.
+
+It showcases my:
+
+- 🚀 Projects
+- 💻 Technical Skills
+- 🏆 Achievements
+- 🎨 Creative Work
+- 📚 Learning Journey
+- 🤝 Leadership & Experiences
+
+### 🔗 Live Website
+
+<p align="center">
+
+<a href="https://aabidportfolio4.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-aabidportfolio4.vercel.app-111827?style=for-the-badge&labelColor=36BCF7" />
+</a>
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+Hi! I'm **Ashfaq Ahmed M**, a Computer Science Engineering student who enjoys combining **technology, creativity, and problem solving**.
+
+I'm interested in building useful digital products, learning how systems work, and exploring the world of cybersecurity and modern software development.
+
+### 💡 What I Enjoy
 
 ```text
-portfolio_me/
-│
-├── assets/
-│   ├── images/
-│   ├── videos/
-│   └── icons/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
-
----
-
-# 📸 Website Preview
-
-![](https://komarev.com/ghpvc/?username=ashfaq-ahmed02&style=for-the-badge)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+Portfolio;Computer+Science+Engineer;Network+Security+Enthusiast;Creative+Developer)](https://git.io/typing-svg)
-
-<p align="center">
-<img width="100%" src="assets/images/preview.png">
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashfaq-ahmed02&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaq-ahmed02&theme=tokyonight"/>
-
-</p>
-
----
-
-# 💡 Currently Learning
-
-- ☁ Cloud Computing
-- 🔐 Cyber Security
-- 🌐 Networking
-- 🐳 Docker
-- ⚡ DevOps
-- 🤖 AI Agents
-- 📡 Ethical Hacking
-
----
-
-# 🎯 Future Updates
-
-- 🌙 Dark Mode
-- 🌍 Multi-language Support
-- 📝 Blog Section
-- 📥 Resume Download
-- ⚡ Performance Improvements
-- ♿ Accessibility Enhancements
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ashfaq-ahmed-m">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/ashfaq-ahmed02">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://aabidportfolio4.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ If you like this project, don't forget to star the repository!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
-
-</div>
+🌐 Web Development
+🔐 Network Security
+🤖 Artificial Intelligence
+⚡ Automation
+🎨 UI/UX Design
+☁ Cloud & DevOps
+📡 Computer Networking
+🚀 Building Projects
