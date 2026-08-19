@@ -4,6 +4,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;DevOps+%7C+Cloud+%7C+Cybersecurity;Network+Security+Enthusiast;Python+%7C+Web+Developer;UI%2FUX+%7C+Creative+Designer;AI+%26+Automation+Explorer" alt="Typing Animation" />
 </p>
 
+<!-- LANYARD UI -->
+
+<p align="center">
+  <img
+    src="./assets/lanyard.gif"
+    width="600"
+    alt="Ashfaq Ahmed Lanyard"
+  />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashfaq-ahmed02&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/ashfaq-ahmed02?label=FOLLOWERS&style=for-the-badge&color=181717" />
@@ -111,25 +121,31 @@ The website showcases my:
 ## 💻 Development
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,fastapi,mysql" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,fastapi,mysql" />
 </p>
 
 ## ⚙️ DevOps & Cloud
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,terraform,gcp" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,terraform,gcp" />
+## 🔐 Security & Networking
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud_Security-4285F4?style=for-the-badge" />
 </p>
 
 ## 🎨 Design & Creative
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=figma" />
-
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 <p align="center">
@@ -143,13 +159,14 @@ The website showcases my:
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🛡️ RuShield
 
 Firewall monitoring dashboard focused on security logs and threat-level analysis.
 
-**Focus**
+**Stack**
 
 `Python` `Flask` `SQLite` `Security`
 
@@ -168,9 +185,11 @@ Mini project focused on solving a practical printing-related workflow.
 `Web` `UI/UX` `Problem Solving`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🌐 Helpmee.in
@@ -194,9 +213,11 @@ Creative web development project designed around a modern digital experience.
 `HTML` `CSS` `JavaScript` `Design`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🔭 VisionX
@@ -220,6 +241,7 @@ Hands-on experiments with APIs, AI tools and workflow automation.
 `AI` `APIs` `Automation`
 
 </td>
+
 </tr>
 </table>
 
@@ -229,39 +251,52 @@ Hands-on experiments with APIs, AI tools and workflow automation.
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ashfaq-ahmed02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=ashfaq-ahmed02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+alt="GitHub Stats" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaq-ahmed02&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 🔥 CONTRIBUTION STREAK
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaq-ahmed02&theme=tokyonight&hide_border=true" />
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaq-ahmed02&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Languages" />
 
 </p>
 
 ---
 
-## 🏆 GITHUB TROPHIES
+# 🔥 CONTRIBUTION STREAK
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashfaq-ahmed02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaq-ahmed02&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
+/>
 
 </p>
 
 ---
 
-## 📈 CONTRIBUTION GRAPH
+# 🏆 GITHUB TROPHIES
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfaq-ahmed02&theme=tokyo-night&hide_border=true&area=true" />
+<img
+src="https://github-profile-trophy.vercel.app/?username=ashfaq-ahmed02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+alt="GitHub Trophies"
+/>
+
+</p>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=ashfaq-ahmed02&theme=tokyo-night&hide_border=true&area=true"
+alt="Contribution Graph"
+/>
 
 </p>
 
@@ -271,16 +306,16 @@ Hands-on experiments with APIs, AI tools and workflow automation.
 
 ```text
 ┌──────────────────────────────────────────┐
-│           CURRENTLY BUILDING              │
+│           CURRENTLY BUILDING             │
 ├──────────────────────────────────────────┤
 │                                          │
-│  ☁️  Cloud & DevOps                      │
-│  🐳  Docker & Containers                 │
-│  🔄  CI/CD Pipelines                     │
-│  🔐  Network Security                    │
-│  🐍  Python & DSA                        │
-│  🤖  AI & Automation                     │
-│  🌐  Full-Stack Development              │
+│  ☁️  Cloud & DevOps                     │
+│  🐳  Docker & Containers                │
+│  🔄  CI/CD Pipelines                    │
+│  🔐  Network Security                   │
+│  🐍  Python & DSA                       │
+│  🤖  AI & Automation                    │
+│  🌐  Full-Stack Development             │
 │                                          │
 └──────────────────────────────────────────┘
 ```
@@ -288,8 +323,6 @@ Hands-on experiments with APIs, AI tools and workflow automation.
 ---
 
 # 🏆 ACHIEVEMENTS
-
-<p align="center">
 
 | 🏅 Achievement              | 🎯 Result                   |
 | --------------------------- | --------------------------- |
@@ -299,15 +332,13 @@ Hands-on experiments with APIs, AI tools and workflow automation.
 | 👥 C3 Club                  | **President**               |
 | 🎨 Creative Work            | **Designer & UI/UX**        |
 
-</p>
-
 ---
 
 # 👑 LEADERSHIP
 
-### C3 — Campus to Corporate Club
+## C3 — Campus to Corporate Club
 
-**President**
+### President
 
 I'm involved in creating technical and career-focused learning experiences for students through:
 
@@ -326,9 +357,13 @@ I'm involved in creating technical and career-focused learning experiences for s
 <p align="center">
 
 <img src="https://img.shields.io/badge/AI-Experiments-36BCF7?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/APIs-Integration-8A2BE2?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Automation-Workflows-FF6B35?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Cloud-Infrastructure-4285F4?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Security-Networking-00C853?style=for-the-badge" />
 
 </p>
@@ -396,7 +431,10 @@ I'm open to:
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"
+alt="Footer"
+/>
 
 </p>
 
