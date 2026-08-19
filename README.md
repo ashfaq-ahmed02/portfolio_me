@@ -1,209 +1,409 @@
-# 👋 Hi, I'm Ashfaq Ahmed M
+# ⚡ ASHFAQ AHMED M
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;DevOps+%26+Cloud+Enthusiast;Network+Security+Enthusiast;Web+Developer;UI%2FUX+Designer;AI+%26+Automation+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;DevOps+%7C+Cloud+%7C+Cybersecurity;Network+Security+Enthusiast;Python+%7C+Web+Developer;UI%2FUX+%7C+Creative+Designer;AI+%26+Automation+Explorer" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashfaq-ahmed02&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ashfaq-ahmed02?label=FOLLOWERS&style=for-the-badge&color=181717" />
+  <img src="https://img.shields.io/github/stars/ashfaq-ahmed02?label=STARS&style=for-the-badge&color=F5C542" />
 </p>
 
 <p align="center">
   <a href="https://aabidportfolio4.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-36BCF7?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-36BCF7?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://github.com/ashfaq-ahmed02">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/💻_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  💻 CSE Student &nbsp; • &nbsp;
-  ⚙️ DevOps Enthusiast &nbsp; • &nbsp;
-  🔐 Network Security &nbsp; • &nbsp;
-  🎨 Creative Designer
+  <b>Build. Break. Learn. Automate. Repeat. 🚀</b>
 </p>
 
 ---
 
-## 🌐 My Portfolio
-
-Welcome to the source code of my personal portfolio website.
-
-This project represents my journey as a **Computer Science Engineering student, developer, security enthusiast, and creative professional**.
-
-It brings together my technical skills, projects, achievements, creative work, and continuous learning journey.
-
-### ✨ What You'll Find
-
-* 🚀 Projects & experiments
-* 💻 Technical skills
-* 🔐 Cybersecurity & networking interests
-* ⚙️ DevOps & cloud learning
-* 🎨 UI/UX and creative work
-* 🏆 Achievements
-* 👥 Leadership & experiences
-* 📚 My learning journey
-
-### 🚀 Live Portfolio
+## 🧭 NAVIGATION
 
 <p align="center">
-  <a href="https://aabidportfolio4.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-aabidportfolio4.vercel.app-111827?style=for-the-badge&labelColor=36BCF7" />
-  </a>
+
+<a href="#-about-me">ABOUT</a> • <a href="#-tech-stack">STACK</a> • <a href="#-projects">PROJECTS</a> • <a href="#-github-analytics">ANALYTICS</a> • <a href="#-achievements">ACHIEVEMENTS</a> • <a href="#-connect">CONNECT</a>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 ABOUT ME
 
-Hi! I'm **Ashfaq Ahmed M**, a Computer Science Engineering student who enjoys combining **technology, creativity, and problem solving**.
+<img align="right" width="280" src="https://github.com/ashfaq-ahmed02.png" />
 
-I love building things, experimenting with new technologies, and understanding how systems work behind the scenes.
+Hey! I'm **Ashfaq Ahmed M** 👋
 
-My interests currently revolve around **software development, DevOps, cloud technologies, networking, cybersecurity, AI, automation, and UI/UX design**.
+I'm a **Computer Science Engineering student** who enjoys working at the intersection of **software, infrastructure, cybersecurity, automation, and design**.
 
-I believe that the best way to learn technology is to **build real projects, solve problems, make mistakes, and keep improving**.
+I don't want to just learn technologies — I want to **build with them**.
 
-### 💡 What I Enjoy
+Currently exploring:
 
 ```text
-🌐 Web Development
-🐍 Python Development
-🔐 Network Security
-📡 Computer Networking
 ⚙️ DevOps & Cloud
-🐳 Docker & Containerization
-🤖 AI & Automation
+🔐 Network Security
+🐳 Docker & Containers
+🔄 CI/CD & Automation
+🐍 Python Development
+🌐 Web Development
+🤖 AI & APIs
 🎨 UI/UX Design
-🚀 Building Real-World Projects
 ```
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
-### ⚙️ DevOps & Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-</p>
-
-### 🎨 Design & Creative
-
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project                 | Description                                                                 |
-| ----------------------- | --------------------------------------------------------------------------- |
-| 🛡️ **RuShield**        | Firewall monitoring dashboard for analyzing security logs and threat levels |
-| 🖨️ **PrintMate**       | Mini project that secured **1st Place**                                     |
-| 🌐 **Helpmee.in**       | Web-based platform project                                                  |
-| 🎭 **The Soiree House** | Web development project                                                     |
-| 🔭 **VisionX**          | Technology-focused project and experimentation                              |
-
-> 🚧 More projects and experiments are continuously being added.
-
----
-
-## 🎯 Currently Learning
-
-I'm currently focused on improving my practical skills in:
+### 🧠 My Approach
 
 ```text
-☁️ Cloud Computing
-⚙️ DevOps
-🐳 Docker
-🔄 CI/CD
-🔐 Cybersecurity
-📡 Computer Networking
-🐍 Python
-🧠 Data Structures & Algorithms
-🤖 AI & Automation
+        IDEA
+         ↓
+      BUILD 🛠️
+         ↓
+    EXPERIMENT 🧪
+         ↓
+     BREAK 💥
+         ↓
+    DEBUG 🔍
+         ↓
+    IMPROVE 🚀
+         ↓
+      REPEAT ♻️
 ```
 
 ---
 
-## 🏆 Achievements
+# 🌐 MY PORTFOLIO
 
-* 🥇 **1st Place** — Mini Project, PrintMate
-* 🥉 **3rd Place** — Webathon
-* 🏃 **400m State-Level Athlete**
-* 🎨 Creative Designer & UI/UX Enthusiast
-* 👥 President — **C3 (Campus to Corporate Club)**
+This repository contains the source code for my personal portfolio website.
 
----
+The website showcases my:
 
-## 🧠 My Learning Philosophy
+| 🧩 Area         | 🔎 Focus                   |
+| --------------- | -------------------------- |
+| 💻 Development  | Web & software projects    |
+| 🔐 Security     | Networking & cybersecurity |
+| ⚙️ DevOps       | Docker, cloud & automation |
+| 🎨 Design       | UI/UX & creative work      |
+| 🏆 Achievements | Competitions & experiences |
+| 👥 Leadership   | C3 & community activities  |
 
-> **Learn → Build → Break → Debug → Improve → Repeat.**
-
-Technology is not something I want to learn only through theory.
-
-I prefer to **build projects, experiment with tools, troubleshoot real problems, and learn from the process**.
-
----
-
-## 📈 GitHub Activity
+### 🚀 Explore
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashfaq-ahmed02&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaq-ahmed02&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in:
-
-* 💼 Internship opportunities
-* 🚀 Project collaborations
-* 🏆 Hackathons
-* 🤝 Open-source contributions
-* 💡 Interesting technology ideas
-
-<p align="center">
-  <a href="https://github.com/ashfaq-ahmed02">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://aabidportfolio4.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🚀_OPEN_LIVE_PORTFOLIO-EXPLORE_NOW-36BCF7?style=for-the-badge&labelColor=111827" />
   </a>
 </p>
 
 ---
 
+# 🛠️ TECH STACK
+
+## 💻 Development
+
 <p align="center">
-  ⭐ If you find my work interesting, consider starring a repository!
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,fastapi,mysql" />
+
+</p>
+
+## ⚙️ DevOps & Cloud
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,terraform,gcp" />
+
+</p>
+
+## 🎨 Design & Creative
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=figma" />
+
 </p>
 
 <p align="center">
-  <b>Built with curiosity, creativity & code. 🚀</b>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
+</p>
+
+---
+
+# 🚀 PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ RuShield
+
+Firewall monitoring dashboard focused on security logs and threat-level analysis.
+
+**Focus**
+
+`Python` `Flask` `SQLite` `Security`
+
+</td>
+
+<td width="50%">
+
+### 🖨️ PrintMate
+
+Mini project focused on solving a practical printing-related workflow.
+
+🏆 **1st Place**
+
+**Focus**
+
+`Web` `UI/UX` `Problem Solving`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Helpmee.in
+
+Web platform project focused on building a practical digital experience.
+
+**Focus**
+
+`Web Development` `UI/UX`
+
+</td>
+
+<td width="50%">
+
+### 🎭 The Soiree House
+
+Creative web development project designed around a modern digital experience.
+
+**Focus**
+
+`HTML` `CSS` `JavaScript` `Design`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔭 VisionX
+
+Technology-focused project exploring modern digital solutions.
+
+**Focus**
+
+`Development` `Innovation`
+
+</td>
+
+<td width="50%">
+
+### 🤖 Automation Experiments
+
+Hands-on experiments with APIs, AI tools and workflow automation.
+
+**Focus**
+
+`AI` `APIs` `Automation`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ashfaq-ahmed02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaq-ahmed02&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🔥 CONTRIBUTION STREAK
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaq-ahmed02&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🏆 GITHUB TROPHIES
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ashfaq-ahmed02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</p>
+
+---
+
+## 📈 CONTRIBUTION GRAPH
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfaq-ahmed02&theme=tokyo-night&hide_border=true&area=true" />
+
+</p>
+
+---
+
+# 🎯 CURRENT FOCUS
+
+```text
+┌──────────────────────────────────────────┐
+│           CURRENTLY BUILDING              │
+├──────────────────────────────────────────┤
+│                                          │
+│  ☁️  Cloud & DevOps                      │
+│  🐳  Docker & Containers                 │
+│  🔄  CI/CD Pipelines                     │
+│  🔐  Network Security                    │
+│  🐍  Python & DSA                        │
+│  🤖  AI & Automation                     │
+│  🌐  Full-Stack Development              │
+│                                          │
+└──────────────────────────────────────────┘
+```
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+<p align="center">
+
+| 🏅 Achievement              | 🎯 Result                   |
+| --------------------------- | --------------------------- |
+| 🥇 Mini Project — PrintMate | **1st Place**               |
+| 🥉 Webathon                 | **3rd Place**               |
+| 🏃 Athletics                | **400m State-Level Player** |
+| 👥 C3 Club                  | **President**               |
+| 🎨 Creative Work            | **Designer & UI/UX**        |
+
+</p>
+
+---
+
+# 👑 LEADERSHIP
+
+### C3 — Campus to Corporate Club
+
+**President**
+
+I'm involved in creating technical and career-focused learning experiences for students through:
+
+```text
+🎤 Technical Sessions
+💡 Hackathon Mentoring
+🤝 Team Collaboration
+📚 Peer Learning
+🚀 Career & Internship Awareness
+```
+
+---
+
+# 🧪 THINGS I'M EXPERIMENTING WITH
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI-Experiments-36BCF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/APIs-Integration-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-Workflows-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud-Infrastructure-4285F4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Security-Networking-00C853?style=for-the-badge" />
+
+</p>
+
+---
+
+# 🧠 LEARNING PHILOSOPHY
+
+<p align="center">
+
+### **"Don't just learn how it works. Build it. Break it. Fix it."**
+
+</p>
+
+```text
+Theory        → Understand
+Practice      → Build
+Failure       → Debug
+Experience    → Improve
+Consistency   → Master
+```
+
+---
+
+# 💬 DEVELOPER QUOTE
+
+<p align="center">
+
+> ⚡ "The best way to predict the future is to build it."
+
+</p>
+
+---
+
+# 🤝 LET'S CONNECT
+
+I'm open to:
+
+```text
+💼 Internships
+🚀 Projects
+🏆 Hackathons
+🤝 Collaborations
+🌐 Open Source
+💡 Interesting Ideas
+```
+
+<p align="center">
+
+<a href="https://aabidportfolio4.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-36BCF7?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/ashfaq-ahmed02">
+<img src="https://img.shields.io/badge/💻_GITHUB-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+
+</p>
+
+<p align="center">
+  <b>⭐ If you like my work, consider starring my repositories.</b>
+</p>
+
+<p align="center">
+  Made with ❤️, curiosity & lots of debugging.
 </p>
